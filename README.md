@@ -43,9 +43,9 @@ Usage
 Upon running the application, a window will appear displaying the table. 
 Users can interact with the table using the buttons provided at the bottom of the window:
 
-    Add Row: Adds a new row to the table.
-    Delete Row: Deletes the selected row from the table.
-    Save to File: Saves the table data to a JSON file.
-    Load from File: Loads table data from a JSON file.
-    Export to PDF: Exports the table data to a PDF file.
-    Print: Prints the table.
+- Add Row: Adds a new row to the table.
+- Delete Row: Deletes the selected row from the table.
+- Save to File: Saves the table data to a JSON file.
+- Load from File: Loads table data from a JSON file.
+- Export to PDF: Exports the table data to a PDF file.
+- Print: Prints the table.

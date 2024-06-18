@@ -1,8 +1,7 @@
-# Table-Java-Task
-UniSoftTableTaskApplication
+# Table-Task
 
 Description
-UniSoftTableTaskApplication is a Java Swing application that utilizes a `JTable` to manage and display data. 
+This Java Swing application utilizes a `JTable` to manage and display data. 
 The application allows users to perform various operations on the table, including adding, deleting, 
 saving to a file, loading from a file, exporting to PDF, and printing the table. 
 It is built using Java Swing for the GUI and integrates with Spring Boot for application configuration and startup.
